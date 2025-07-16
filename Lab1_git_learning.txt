@@ -1,2 +1,44 @@
 step 1
 login Github Account
+
+step -2 
+create Repositors 
+
+step-3 
+create a file and and show hidden files
+
+step -4 
+open git bash from created file
+
+step-5 
+write command git clone (Repositor link)
+
+step-6
+create a text file
+
+step -7
+open git bash from created file again 
+
+step -8
+write commad git add (text file name )
+
+step-9
+write command git commit -m "(Any Massage)"
+
+step-10
+write command git config user.email "( Write Email )"
+
+step-11
+write command git config user.name "( Write username )"
+
+step-12
+write commad git add (text file name ) [again]
+
+step-13
+write git pust --m 
+
+step-14 
+ show github login page 
+
+step-15
+done 
